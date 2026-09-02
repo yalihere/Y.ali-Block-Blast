@@ -1,0 +1,12 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Block Blast - Y.Ali",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "Block Blast",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "description": "Enjoy the ultimate puzzle experience with Block Blast by Y.Ali! Drag and drop colorful blocks onto the 8x8 grid, complete rows and columns to trigger amazing blast effects, and compete on the online leaderboard for the highest score. Play now, unlock special new blocks, and test your puzzle-solving skills!"
+}
