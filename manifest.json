@@ -10,4 +10,11 @@
   "theme_color": "#000000",
   "id": "com.yali.blockblast",
   "description": "Enjoy the ultimate puzzle experience with Block Blast by Y.Ali! Drag and drop colorful blocks onto the 8x8 grid, complete rows and columns to trigger amazing blast effects, and compete on the online leaderboard for the highest score. Play now, unlock special new blocks, and test your puzzle-solving skills!"
+,  "icons": [
+    {
+      "src": "yali_logo.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
 }
