@@ -39,7 +39,7 @@ button:active{transform:translateY(3px);box-shadow:0 3px 8px #0008}
   100% { transform: scale(0); opacity: 0; filter: brightness(3); }
 }
 .cell.blast {
-  animation: blastAnim 1.2s ease-in-out forwards;
+  animation: blastAnim 0.5s ease-in-out forwards;
   z-index: 10;
 }
 
@@ -377,7 +377,7 @@ function placeAt(r,c){
       render();
       renderPieces();
       if(!hasMove()){setTimeout(gameOver,250)}
-    }, 1200);
+    }, 500);
   } else {
     if(pieces.length===0){
       newPieces();
